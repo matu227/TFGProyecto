@@ -1,0 +1,261 @@
+[
+    {
+      "id": 1,
+      "nombre": "Air Jordan 1 Chicago",
+      "precio": 179.00,
+      "imagen": "../fotos/zapatilla1/zpa4.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Air Jordan 1 Zoom CMFT 2 x Teyana Taylor",
+      "precio": 169.99,
+      "imagen": "../fotos/zapatilla2/zpa15.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Air Jordan 2 H Wings",
+      "precio": 209.99,
+      "imagen": "../fotos/zapatilla3/4.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Air Jordan 1 Sail",
+      "precio": 189.99,
+      "imagen": "../fotos/zapatilla4/4.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Air Jordan 6 Toro Bravo",
+      "precio": 209.99,
+      "imagen": "../fotos/zapatilla5/4.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Air Jordan 5 Craft",
+      "precio": 219.99,
+      "imagen": "../fotos/zapatilla6/4.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Air Jordan 1 High Multicolor",
+      "precio": 189.99,
+      "imagen": "../fotos/zapatilla7/4.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Air Jordan 1 Heritage",
+      "precio": 169.99,
+      "imagen": "../fotos/zapatilla8/4.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Air Jordan 1 Black and Smoke Grey",
+      "precio": 179.99,
+      "imagen": "../fotos/zapatilla9/4.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Air Jordan 4 A Ma Maniére",
+      "precio": 224.99,
+      "imagen": "../fotos/zapatilla10/4.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Air Jordan 1 Starfish",
+      "precio": 179.99,
+      "imagen": "../fotos/zapatilla11/4.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Air Jordan 9 Fire Red",
+      "precio": 189.99,
+      "imagen": "../fotos/zapatilla12/4.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Pantalón ISPA",
+      "precio": 199.00,
+      "imagen": "../fotos/ropa1/1.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Sudadera con capucha Jordan x UNION",
+      "precio": 149.99,
+      "imagen": "../fotos/ropa2/1.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Chaqueta ISPA",
+      "precio": 149.99,
+      "imagen": "../fotos/ropa3/1.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Chaqueta de piel x Travis Scott",
+      "precio": 549.99,
+      "imagen": "../fotos/ropa4/1.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Pantalón de piel x Travis Scott",
+      "precio": 309.99,
+      "imagen": "../fotos/ropa4/3.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Camiseta de tirantes x Travis Scott",
+      "precio": 79.99,
+      "imagen": "../fotos/ropa4/5.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Pantalón de piel x Travis Scott",
+      "precio": 399.99,
+      "imagen": "../fotos/ropa4/7.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "Body x Travis Scott",
+      "precio": 79.99,
+      "imagen": "../fotos/ropa4/9.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "Sudadera con capucha x Nike SB",
+      "precio": 79.99,
+      "imagen": "../fotos/ropa5/1.jpg"
+    },
+    {
+      "id": 22,
+      "nombre": "Chaqueta de lana a rayas x Stüssy",
+      "precio": 174.99,
+      "imagen": "../fotos/ropa6/1.jpg"
+    },
+    {
+      "id": 23,
+      "nombre": "Jersey de punto x Stüssy",
+      "precio": 174.99,
+      "imagen": "../fotos/ropa7/1.jpg"
+    },
+    {
+      "id": 24,
+      "nombre": "Camiseta x Off-White™",
+      "precio": 79.99,
+      "imagen": "../fotos/ropa8/1.jpg"
+    },
+    {
+      "id": 25,
+      "nombre": "Pantalón corto de tejido Woven x Off-White™",
+      "precio": 129.99,
+      "imagen": "../fotos/ropa8/3.jpg"
+    },
+    {
+      "id": 26,
+      "nombre": "Chandal x Off-White™",
+      "precio": 349.99,
+      "imagen": "../fotos/ropa8/5.jpg"
+    },
+    {
+      "id": 27,
+      "nombre": "Chaqueta x Off-White™",
+      "precio": 499.99,
+      "imagen": "../fotos/ropa8/7.jpg"
+    },
+    {
+      "id": 28,
+      "nombre": "Gorra x Off-White™",
+      "precio": 49.99,
+      "imagen": "../fotos/ropa8/9.jpg"
+    },
+    {
+      "id": 29,
+      "nombre": "Sudadera con capucha x Travis Scott",
+      "precio": 169.99,
+      "imagen": "../fotos/ropa9/1.jpg"
+    },
+    {
+      "id": 30,
+      "nombre": "Chaqueta de tejido Woven x Travis Scott",
+      "precio": 229.99,
+      "imagen": "../fotos/ropa9/3.jpg"
+    },
+    {
+      "id": 31,
+      "nombre": "Pantalón corto x Travis Scott",
+      "precio": 99.99,
+      "imagen": "../fotos/ropa9/5.jpg"
+    },
+    {
+      "id": 32,
+      "nombre": "Chaqueta universitaria x Travis Scott",
+      "precio": 749.99,
+      "imagen": "../fotos/ropa9/7.jpg"
+    },
+    {
+      "id": 33,
+      "nombre": "Pantalón de tejido Fleece x Travis Scott",
+      "precio": 129.99,
+      "imagen": "../fotos/ropa9/9.jpg"
+    },
+    {
+      "id": 34,
+      "nombre": "Sudadera con capucha x J Balvin",
+      "precio": 149.99,
+      "imagen": "../fotos/ropa10/1.jpg"
+    },
+    {
+      "id": 35,
+      "nombre": "Sudadera x J Balvin",
+      "precio": 119.99,
+      "imagen": "../fotos/ropa10/3.jpg"
+    },
+    {
+      "id": 36,
+      "nombre": "Camiseta x J Balvin",
+      "precio": 49.99,
+      "imagen": "../fotos/ropa10/5.jpg"
+    },
+    {
+      "id": 37,
+      "nombre": "Pantalón de tejido Fleece x J Balvin",
+      "precio": 119.99,
+      "imagen": "../fotos/ropa10/7.jpg"
+    },
+    {
+      "id": 38,
+      "nombre": "Pantalón corto x J Balvin",
+      "precio": 99.99,
+      "imagen": "../fotos/ropa10/9.jpg"
+    },
+    {
+      "id": 39,
+      "nombre": "Camiseta de manga larga x PEACEMINUSONE",
+      "precio": 59.99,
+      "imagen": "../fotos/ropa11/1.jpg"
+    },
+    {
+      "id": 40,
+      "nombre": "Pantalón ancho x PEACEMINUSONE",
+      "precio": 149.99,
+      "imagen": "../fotos/ropa11/3.jpg"
+    },
+    {
+      "id": 41,
+      "nombre": "Camiseta de manga larga x Stüssy",
+      "precio": 79.99,
+      "imagen": "../fotos/ropa12/1.jpg"
+    },
+    {
+      "id": 42,
+      "nombre": "Chaqueta x Stüssy",
+      "precio": 174.99,
+      "imagen": "../fotos/ropa12/3.jpg"
+    },
+    {
+      "id": 43,
+      "nombre": "Pantalón x Stüssy",
+      "precio": 124.99,
+      "imagen": "../fotos/ropa12/5.jpg"
+    }
+  ]
+  

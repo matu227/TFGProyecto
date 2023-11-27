@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Air Jordan 1 Chicago",
+    "precio": 179.00,
+    "imagen": "../fotos/zapatilla1/zpa4.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Air Jordan 1 Zoom CMFT 2 x Teyana Taylor",
+    "precio": 169.99,
+    "imagen": "../fotos/zapatilla2/zpa15.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Producto 3",
+    "precio": 5.49,
+    "imagen": "../fotos/zapatilla3/4.jpg"
+  }
+]

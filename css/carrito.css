@@ -1,0 +1,125 @@
+.container1 {
+  height: 100%;
+  padding: 7%;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.container2{
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  padding: 1%;
+  display: flex;
+}
+
+.container3 {
+  width: 70%;
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.container4 {
+  padding: 10px;
+  width: 30%;
+  border-radius: 7px;
+}
+
+.categoria {
+  background: linear-gradient(-135deg, #000080 0%, #1a336e 50%, #4158d0 100%);
+  padding: 10px;
+  width: 100%;
+  border-radius: 7px;
+}
+
+.tipos-carrito {
+  display: flex;
+ 
+}
+
+
+.compra {
+  background-color: whitesmoke;
+  padding: 10px;
+  width: 100%;
+  border-radius: 7px;
+  display: flex;
+
+}
+
+.izq {
+  display: flex;
+  right: 0;
+  padding-left: 40px;
+  padding-right: 300px;
+}
+
+.drc {
+  display: flex;
+  right: 0;
+  padding-right: 210px;
+}
+
+
+table td {
+  width: 220px;
+  color: black;
+  text-align: center;
+  justify-self: center;
+}
+
+table img {
+  width: 220px;
+}
+
+
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+button {
+  background-color: black;
+  margin-top: -20px;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.tj {
+  color: #fff;
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 10px;
+  height: 45px;
+  background: linear-gradient(-135deg, #000080 0%, #1a336e 50%, #4158d0 100%);
+}
+
+.pg {
+  width: 100px;
+  padding-top: 10px;
+  
+}
+
+.pg button {
+  border-radius: 10px;
+}
