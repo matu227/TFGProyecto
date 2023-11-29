@@ -6,22 +6,8 @@ ESTA UNA DE LAS TABLAS para que funcione y guarde en la base de datos los usuari
 CREATE TABLE users(
   id INT AUTO_INCREMENT PRIMARY KEY,
   email VARCHAR(200) NOT NULL,
-  contrasena VARCHAR(200) NOT NULL
+  password VARCHAR(200) NOT NULL,
+  direccion VARCHAR(255) NOT NULL,
 );
 
 
-CREATE TABLE productos (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  nombre VARCHAR(255) NOT NULL,
-  precio DECIMAL(10, 2) NOT NULL,
-  imagen varchar(255)
-);
-
-CREATE TABLE cesta (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  id_usuario INT,
-  id_producto INT,
-  cantidad INT,
-  FOREIGN KEY (id_usuario) REFERENCES usuarios(id),
-  FOREIGN KEY (id_producto) REFERENCES productos(id)
-);
